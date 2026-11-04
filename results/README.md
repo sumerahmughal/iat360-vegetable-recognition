@@ -1,1 +1,1 @@
-Python scripts for dataset preparation, image preprocessing, and recipe recommendations.
+Training results, model evaluation metrics, and experiment visualizations.
